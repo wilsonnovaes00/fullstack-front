@@ -2,7 +2,7 @@
 
 ### The first step is to install the following:
 
-sudo npm install 
+sudo npm install
 
 
 ### Rotate commands Root folder package.json:
@@ -13,6 +13,4 @@ npm run dev
 
 ### URL
 
-http://localhost:3003
-
-
+http://localhost:3000
