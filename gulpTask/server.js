@@ -9,7 +9,7 @@ gulp.task('server', ['watch'], function() {
     open: true
   }))
 })
-
+ 
 gulp.task('watch', function() {
   watch('app/**/*.html', () => gulp.start('app.html'))
   watch('app/**/*.css', () => gulp.start('app.css'))
